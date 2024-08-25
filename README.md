@@ -10,7 +10,9 @@
 
   #### Acesse:
   1.Adcione um nota.
-  2.Modificar ou excluir as notas
+  
+  2.Modificar ou excluir as notas.
+  
   3.Download da nota.
 
   ## Contribuição
